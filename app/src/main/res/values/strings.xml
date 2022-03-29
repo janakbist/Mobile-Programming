@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="text_fields">This is a text message</string>
+    <string name="this_is_the_text_n_message">this is the text \n message</string>
+</resources>
